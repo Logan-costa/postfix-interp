@@ -5,3 +5,5 @@ Takes postfix expresstions as command line input
 
 Outputs the equivalent infix expression
 (i.e 1 + 2 = 3)
+
+Compiled using GCC
