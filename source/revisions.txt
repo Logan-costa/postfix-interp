@@ -1,0 +1,77 @@
+commit 7f77b867f0d9b87f028afff3e87355124047594a
+Author: lec8284 <lec8284@rit.edu>
+Date:   Fri Nov 22 23:26:01 2024 -0500
+
+    Satisfactory (for me) tests passing
+
+commit d55965546bbb182c7d9e0e7b3303c68f5c4b0617
+Author: lec8284 <lec8284@rit.edu>
+Date:   Fri Nov 22 10:37:23 2024 -0500
+
+    Interp.c
+
+commit 5fd898892724259f05cf1793cef8c49d4f85692f
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 21 18:55:43 2024 -0500
+
+    Valgrind passes
+
+commit 332efd136df92bc6216c59b1b91719c1b369bc4c
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 21 14:18:54 2024 -0500
+
+    Self written tests pass
+
+commit 4baae17e2b34155a654634fcba0d03abcb1f7760
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 21 07:59:12 2024 -0500
+
+    Code compiles (untested)
+
+commit a91d4de3b5eb1c915c18245fe8be685361828e54
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 21 07:27:33 2024 -0500
+
+    parser prototype
+
+commit be5fa52cab0dd39b9069503f41aedd8ffa280a9a
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 7 10:55:41 2024 -0500
+
+    working tree nodes
+
+commit 3ba784a715361fbc8e9d1d55de47ffca92bb4b4e
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 7 10:41:50 2024 -0500
+
+    tree nodes prototype
+
+commit 9f2819cf38487676da967f4055d9fc843463709f
+Author: lec8284 <lec8284@rit.edu>
+Date:   Thu Nov 7 10:28:22 2024 -0500
+
+    Functioning symbol table
+
+commit e25474ce714060e7b859b383bb7da42bea6044c2
+Author: lec8284 <lec8284@rit.edu>
+Date:   Mon Nov 4 15:35:59 2024 -0500
+
+    symtab prototype
+
+commit 4fd4ea49f5ccc76fb06f26e9e3d27b209e9dd66b
+Author: lec8284 <lec8284@rit.edu>
+Date:   Wed Oct 30 14:05:48 2024 -0400
+
+    symtab prototype
+
+commit d3c39fddd5b398aace042568bc7b9446b2a12016
+Author: lec8284 <lec8284@rit.edu>
+Date:   Tue Oct 29 18:24:59 2024 -0400
+
+    Working stack
+
+commit 02abae7b0ba99c41d6b45f6d68c32ed2c4850abe
+Author: lec8284 <lec8284@rit.edu>
+Date:   Tue Oct 29 18:22:32 2024 -0400
+
+    Initial Commit
